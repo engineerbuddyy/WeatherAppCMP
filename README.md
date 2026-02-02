@@ -79,11 +79,13 @@ If you face any issues, please report them on [YouTrack](https://youtrack.jetbra
 
 
 🌦️ Cross-Platform Weather App
+
 Built with Kotlin & Compose Multiplatform
 
 A modern cross-platform weather application built using Kotlin Multiplatform and Compose Multiplatform, sharing UI and business logic across Android, Web, and iOS from a single codebase.
 
 ✨ Why This Project?
+
 
 Building the same app three times for different platforms leads to duplicated code, higher maintenance, and inconsistent UI.
 This project demonstrates how Compose Multiplatform solves that by enabling:
@@ -96,6 +98,7 @@ Native performance on every platform
 
 🚀 Key Features
 
+
 🌍 Location-based weather data
 
 ☀️ Current weather with daily & weekly forecasts
@@ -106,7 +109,10 @@ Native performance on every platform
 
 🔄 State-driven, reactive architecture
 
+
 🧩 Why Kotlin + Compose Multiplatform?
+
+
 Kotlin Multiplatform
 
 Shares core logic (networking, data, ViewModels)
@@ -123,7 +129,9 @@ Consistent look and behavior
 
 Native rendering (not WebView-based)
 
+
 🛠️ Tech Stack
+
 
 Kotlin Multiplatform
 
