@@ -145,7 +145,7 @@ moko-geo (location handling)
 
 
 <div style="display:flex; gap:16px; justify-content:center;">
-  <img src="w1.jpg" alt="Screenshot 1" style="width:35%; border-radius:6px;">
-  <img src="w2.jpg" alt="Screenshot 2" style="width:35%; border-radius:6px;">
+  <img src="w1.jpg" alt="Screenshot 1" style="width:31.5%; border-radius:8px;">
+  <img src="w2.jpg" alt="Screenshot 2" style="width:31.5%; border-radius:8px;">
 </div>
 
