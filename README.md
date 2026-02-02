@@ -142,3 +142,10 @@ Coroutines & Flow
 MVVM Architecture
 
 moko-geo (location handling)
+
+
+<div style="display:flex; gap:16px; justify-content:center;">
+  <img src="w1.jpg" alt="Screenshot 1" style="width:45%; border-radius:8px;">
+  <img src="w2.jpg" alt="Screenshot 2" style="width:45%; border-radius:8px;">
+</div>
+
